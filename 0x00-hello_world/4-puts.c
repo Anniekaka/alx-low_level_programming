@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * main -print a line of code using puts
+ * main - entry point of c programme
  *
- * return: always 0 (success)
+ * (void): no input of parameters
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
